@@ -10,6 +10,8 @@ namespace AbsztraktEtterem
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("haloo");
+
         }
     }
 }

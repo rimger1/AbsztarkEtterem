@@ -8,5 +8,6 @@ namespace AbsztraktEtterem
 {
     internal class Ital
     {
+        
     }
 }
